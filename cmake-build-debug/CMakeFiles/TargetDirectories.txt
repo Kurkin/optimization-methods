@@ -1,4 +1,0 @@
-/home/mariashka/uni/optimize/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mariashka/uni/optimize/cmake-build-debug/CMakeFiles/newton.dir
-/home/mariashka/uni/optimize/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mariashka/uni/optimize/cmake-build-debug/CMakeFiles/search.dir
